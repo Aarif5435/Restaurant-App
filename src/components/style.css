@@ -1,0 +1,21 @@
+.restaurent_container{
+    display: grid;
+    grid-template-columns: repeat(4,320px);
+    grid-gap: 15px;
+    /* border: 1px solid red; */
+    width: 90%;
+    /* height: 700px; */
+    margin: 100px auto;
+}
+.img_food{
+    width: 100px;
+
+}
+.food_div{
+    display: flex;
+    /* border: 1px solid red; */
+    margin-left: 10px;
+}
+.other{
+    display: inline;
+}

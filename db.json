@@ -1,0 +1,165 @@
+{
+  "restaurent": [
+    {
+      "id": 1,
+      "category": "Fast food",
+      "payment_method": "cash",
+      "cost": 141,
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "category": "Inidan",
+      "payment_method": "card",
+      "cost": 353,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "category": "Thai",
+      "payment_method": "cash",
+      "cost": 492,
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "category": "Chines",
+      "payment_method": "card",
+      "cost": 152,
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "category": "Non veg",
+      "payment_method": "cash",
+      "cost": 331,
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "category": "Punjabi",
+      "payment_method": "card",
+      "cost": 236,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "category": "Lunch,Breakfast and Dinner",
+      "payment_method": "card",
+      "cost": 262,
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "category": "Family",
+      "payment_method": "cash",
+      "cost": 124,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "category": "Indian",
+      "payment_method": "card",
+      "cost": 276,
+      "rating": 1
+    },
+    {
+      "id": 10,
+      "category": "Fast Food",
+      "payment_method": "cash",
+      "cost": 508,
+      "rating": 3
+    },
+    {
+      "id": 11,
+      "category": "BreakFast",
+      "payment_method": "cash",
+      "cost": 179,
+      "rating": 3
+    },
+    {
+      "id": 12,
+      "category": "Noodls",
+      "payment_method": "card",
+      "cost": 312,
+      "rating": 4
+    },
+    {
+      "id": 13,
+      "category": "Dinner",
+      "payment_method": "cash",
+      "cost": 107,
+      "rating": 3
+    },
+    {
+      "id": 14,
+      "category": "Chines",
+      "payment_method": "card",
+      "cost": 220,
+      "rating": 4
+    },
+    {
+      "id": 15,
+      "category": "Thai",
+      "payment_method": "card",
+      "cost": 506,
+      "rating": 3
+    },
+    {
+      "id": 16,
+      "category": "Kashmiri",
+      "payment_method": "cash",
+      "cost": 463,
+      "rating": 2
+    },
+    {
+      "id": 17,
+      "category": "Diet",
+      "payment_method": "cash",
+      "cost": 193,
+      "rating": 2
+    },
+    {
+      "id": 18,
+      "category": "Fast Food",
+      "payment_method": "card",
+      "cost": 393,
+      "rating": 2
+    },
+    {
+      "id": 19,
+      "category": "Indian",
+      "payment_method": "card",
+      "cost": 100,
+      "rating": 2
+    },
+    {
+      "id": 20,
+      "category": "Chines",
+      "payment_method": "cash",
+      "cost": 365,
+      "rating": 2
+    },
+    {
+      "category": "fast",
+      "cost": "100",
+      "payment": "cash",
+      "rating": "3",
+      "id": 21
+    },
+    {
+      "category": "chines",
+      "cost": "300",
+      "payment": "card",
+      "rating": "4",
+      "id": 22
+    },
+    {
+      "category": "indian",
+      "cost": "400",
+      "payment": "card",
+      "rating": "5",
+      "id": 23
+    }
+  ]
+}
